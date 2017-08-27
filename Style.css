@@ -1,0 +1,28 @@
+body, html {
+      height: 100%;
+      margin: 0;
+    }
+    .bg {
+      background: url("https://static.tumblr.com/e6b3bf7df6e20fee250f7182d775c17a/m7evyuc/4TLoldyoj/tumblr_static_6cogcvjxaqkgwcw8wgg0ogs4c_640_v2.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 100%;
+    }
+    
+    .container-fluid {
+      color: white;
+    }
+    
+    .container {
+      color: white;
+      margin-top: 30px;
+    }
+    
+    .text-center {
+      font-family: 'Calligraffitti', cursive;
+      font-size: 50px;
+    }
+    
+    #author {
+      font-family: 'Libre Baskerville', serif;
+    }
